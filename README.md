@@ -57,6 +57,7 @@ This project helped me gain practical experience in:
 2. Open the project in Unity Hub.
 3. Open the main scene.
 4. Press Play in the Unity Editor.
+   or use this link: https://gamerdev0.itch.io/fly-high
 
 ## 🔮 Future Improvements
 
