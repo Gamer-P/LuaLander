@@ -45,10 +45,10 @@ This project helped me gain practical experience in:
 
 ## 📸 Screenshots
 
-<img width="400" height="400" alt="FlyHigh" src="https://github.com/user-attachments/assets/dbfb860d-4060-474b-b75b-9442ff71728c" />
-<img width="400" height="400" alt="FlyHigh1" src="https://github.com/user-attachments/assets/70838656-5dc6-48d5-b491-86a17824c307" />
-<img width="400" height="400" alt="FlyHigh3" src="https://github.com/user-attachments/assets/f4f36e2a-7b8d-4294-beaf-1e3d38111b48" />
-<img width="400" height="400" alt="Screenshot (410)" src="https://github.com/user-attachments/assets/cdb86286-54d7-4d1b-9585-7a25a4ebdc5b" />
+<img width="400" alt="FlyHigh" src="https://github.com/user-attachments/assets/dbfb860d-4060-474b-b75b-9442ff71728c" />
+<img width="400" alt="FlyHigh1" src="https://github.com/user-attachments/assets/70838656-5dc6-48d5-b491-86a17824c307" />
+<img width="400" alt="FlyHigh3" src="https://github.com/user-attachments/assets/f4f36e2a-7b8d-4294-beaf-1e3d38111b48" />
+<img width="400" alt="Screenshot (410)" src="https://github.com/user-attachments/assets/cdb86286-54d7-4d1b-9585-7a25a4ebdc5b" />
 
 
 ## ▶️ How to Run
