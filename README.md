@@ -1,4 +1,4 @@
-# Fly High 🛩️
+# Fly High 🐦
 
 Fly High is a 2D arcade game developed in Unity, inspired by the classic Flappy Bird gameplay. Players control a paper plane and navigate through challenging obstacles while trying to achieve the highest possible score.
 
